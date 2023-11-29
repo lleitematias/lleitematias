@@ -1,5 +1,5 @@
 
-## Larissa Matias, estudante de Ciência da Computação e DBA Oracle!
+## Larissa Matias, Cientista da Computação e DBA!
   
 <div align="center">
   <a href="https://github.com/lleitematias">
